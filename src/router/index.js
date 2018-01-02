@@ -19,6 +19,10 @@ export default new Router({
       path: '/country',
       name: 'Country',
       component: Country
+    },
+    {
+      path: '/*',
+      redirect: '/Home'
     }
   ]
 })
