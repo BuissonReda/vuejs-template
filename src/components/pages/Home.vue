@@ -2,7 +2,7 @@
   <div>
     <b-jumbotron class="jumbotron" header="Home" lead="Your content here">
       <p>For more information visit the github of this site</p>
-      <b-btn variant="primary" href="#">More Info</b-btn>
+      <b-btn variant="primary" href="https://github.com/BuissonReda/vuejs-template">More Info</b-btn>
     </b-jumbotron>
   </div>
 </template>

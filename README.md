@@ -1,4 +1,4 @@
-# Vuejs template
+# Vue.js template
 
 > A Vue.js template using axios, vue-router, vue-moment, etc. It contains two pages, a homepage and a page containing infos about countries, from a free REST api called https://restcountries.eu/
 
