@@ -1,7 +1,7 @@
 <template>
   <div>
     <footer class="footer">
-      <p>Created by <a href="http://www.redabuisson.com">Buisson Réda</a>.</p>
+      <p class="purple">Created by <a class="yellow" href="http://www.redabuisson.com">Buisson Réda</a>.</p>
     </footer>
   </div>
 </template>

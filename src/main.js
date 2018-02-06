@@ -11,6 +11,7 @@ import 'bootstrap/dist/css/bootstrap.css'
 import 'bootstrap-vue/dist/bootstrap-vue.css'
 import moment from 'moment'
 import VueMomentJS from 'vue-momentjs'
+import VueApi from 'vue_api/vue_api'
 
 const progressBarOptions = {
   color: '#3adfc3',
@@ -26,6 +27,7 @@ const progressBarOptions = {
   inverse: false
 }
 
+Vue.use(VueApi)
 Vue.use(VueAxios, axios)
 Vue.use(VueProgressBar, progressBarOptions)
 Vue.use(BootstrapVue)

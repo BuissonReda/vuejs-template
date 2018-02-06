@@ -50,6 +50,8 @@ export default {
 </script>
 
 <style lang="scss">
+@import '../static/basik.css';
+
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
